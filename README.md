@@ -4,8 +4,8 @@
 
 A simple application for searching books using the Google Books API. It has both frontend (React) and backend (Node.js/Express) components. The app allows users to search for books and view detailed information about them.
 
-<img src="https://github.com/nipun-priyanjith/Google_Books_API/blob/main/Screenshot%202025-01-01%20085246.png"/>
-<img src="https://github.com/nipun-priyanjith/Google_Books_API/blob/main/Screenshot%202025-01-01%20085325.png"/>
+<img src="https://github.com/nipun-priyanjith/Google_Books_APIs/blob/main/Screenshot%202025-01-01%20085246.png"/>
+<img src="https://github.com/nipun-priyanjith/Google_Books_APIs/blob/main/Screenshot%202025-01-01%20085325.png"/>
 ## Backend Setup (Node.js and Express)
 
 ### 1. Initialize the Project:
