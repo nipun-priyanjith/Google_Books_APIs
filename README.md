@@ -90,22 +90,7 @@ The React app should be running on `http://localhost:3000`.
 
 ---
 
-## Folder Structure
 
-```plaintext
-├── backend/
-│   ├── server.js
-│   ├── .env
-│   ├── models/
-│   ├── routes/
-│   └── controllers/
-├── client/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-├── package.json
-└── README.md
-```
 
 ---
 
